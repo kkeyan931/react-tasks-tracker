@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "Code in react",
+      "day": "16th 10am",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Code in Vue",
+      "day": "15th 10am",
+      "reminder": true,
+      "id": 2
+    }
+  ]
+}
